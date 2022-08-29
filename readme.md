@@ -26,9 +26,7 @@ width="45" /> I'm Zainab Amjid Awan</h1>
 [![Tweeter](https://img.shields.io/badge/Tweeter-E4405F?style=for-the-badge&logo=Tweeter&logoColor=white)](https://www.Tweeter.com/ZainabAmjidAwan)
 [![Likee](https://img.shields.io/badge/Likee-E4405F?style=for-the-badge&logo=Likee&logoColor=white)](https://www.Likee.com/ZainabAmjidAwan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.Instagram.com/ZainabAmjidAwan)
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594]
 
+![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/112397491/187237460-956a62a3-3b9a-4d15-9635-e78c36270afc.gif)
 
-
-(https://user-images.githubusercontent.com/112397491/187235263-0770242a-a3e4-4ffd-aaa6-9c361423895e.gif)
 
