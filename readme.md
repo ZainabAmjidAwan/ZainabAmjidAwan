@@ -3,3 +3,10 @@ alt="Waving hand animated gif"
 height="45"
 width="45" /> I'm Zainab Amjid Awan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZainabAmjidAwan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+## 💳 Github Profile Summary Card
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainabAmjidAwan&theme=vue"/>
+
+</p>
