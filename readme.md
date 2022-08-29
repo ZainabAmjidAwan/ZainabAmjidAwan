@@ -16,3 +16,6 @@ width="45" /> I'm Zainab Amjid Awan</h1>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabAmjidAwan&theme=vue" />
 
 </p>
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZainabAmjidAwan)
